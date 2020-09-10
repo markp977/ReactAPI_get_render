@@ -139,5 +139,7 @@ const Body = styled.p`
 const Image = styled.img`
   margin-bottom: 20px
 `;
-  const rootElement = document.getElementById('root');
-  ReactDOM.render(<App />, rootElement);
+
+
+const rootElement = document.getElementById('root');
+ReactDOM.render(<App />, rootElement);
